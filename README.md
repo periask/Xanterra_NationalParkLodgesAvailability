@@ -24,3 +24,9 @@ Update the following in each "xanterra" block to match your needs,
 "nights": 1,
 ```
 Please make sure that the date, month and year combination is in the future.
+
+
+# How to run
+```bash
+python3 Xanterra_availability.py NPSinfo.json
+```

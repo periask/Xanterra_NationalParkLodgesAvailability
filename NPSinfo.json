@@ -1,0 +1,36 @@
+{
+    "sender": "sender@gmail.com",
+    "password": "password",
+    "recipients": ["recipient01@gmail.com"],
+    "mailserver": "smtp.gmail.com:587",
+    "xanterra": [
+        {
+            "NP": "Yellow Stone National Park",
+            "url": "https://secure.yellowstonenationalparklodges.com/booking/lodging-flex-search?dateFrom={}-{}-{}&adults={}&children={}&nights={}&destination=ALL",
+            "date": 16,
+            "month": 10,
+            "year": 2021,
+            "adults": 2,
+            "children": 1,
+            "nights": 1,
+            "interests": {
+                "hotels": [],
+                "dates": []
+            }
+        },
+        {
+            "NP": "Glacier National Park",
+            "url": "https://secure.glaciernationalparklodges.com/booking/lodging-flex-search?dateFrom={}-{}-{}&adults={}&children={}&nights={}&destination=ALL",
+            "date": 16,
+            "month": 10,
+            "year": 2021,
+            "adults": 2,
+            "children": 1,
+            "nights": 1,
+            "interests": {
+                "hotels": [],
+                "dates": []
+            }
+        }
+    ]
+}
